@@ -1,3 +1,7 @@
 # Prova de padrões de projeto
 
-## obs: fiz somente a segunda questão
+fiz somente a segunda questão
+
+# Padrões usados:
+* Strategy
+* Factory Method
